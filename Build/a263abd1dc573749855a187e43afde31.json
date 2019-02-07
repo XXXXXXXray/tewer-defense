@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "tower rush 2",
+"dataUrl": "8d5f93081f8300cafe3f19c4ad43a966.unityweb",
+"wasmCodeUrl": "07542d597fe6bee40614b588fb172bbe.unityweb",
+"wasmFrameworkUrl": "0717b2932d281860d38bb1182f844fac.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
